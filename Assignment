@@ -1,0 +1,31 @@
+Name: Uro Reuben Eluu
+
+Reg no: 2020/hnd/31281/cs
+
+Department: computer science
+
+Level: HND 2
+
+Assignment 1
+
+The critical differences between SQL and NoSQL are:
+
+               Structure
+
+SQL databases are relational while NoSQL databases are non-relational.
+
+               Mode of operation
+
+SQL databases use structured query language and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data.
+
+          Data arrangement
+
+SQL databases are vertically scalable, while NoSQL databases are horizontally scalable.
+
+                Mode of storage
+
+SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores.
+
+              Area of application
+
+SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON.
