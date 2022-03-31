@@ -1,0 +1,10 @@
+MySQL is a relational database that is based on tabular design whereas NoSQL is non-relational in nature with its document-based design.
+MySQL has established a database, covering huge IT market whereas NoSQL databases are the latest arrival, hence still gaining popularity among big IT giants.
+MySQL database with its settled market encompasses a huge community whereas the NoSQL database with the short span arrival has a comparatively short community.
+MySQL is not so easily scalable with their rigid schema restrictions whereas NoSQL can be easily scaled with their dynamic schema nature.
+The detailed database model is required before database creation in MySQL whereas no detailed modeling is required in the case of NoSQL database types.
+MySQL is one of the types of relational database whereas NoSQL is more of design based database type with examples like MongoDB, Couch DB, etc.
+MySQL is available with a wide array of reporting tools help application’s validity whereas NoSQL databases lack reporting tools for analysis and performance testing.
+MySQL being a relational database is less flexible with its design constraint whereas NoSQL being non-relational in nature, provides a more flexible design as compared to MySQL.
+MySQL is being used with a standard query language called SQL whereas NoSQL like databases misses a standard query language.
+MySQL like a relational database can provide a performance issue for a huge amount of data, hence require optimization of queries whereas NoSQL databases like MongoDB are good at performance even with the dataset is huge in size.
