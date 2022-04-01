@@ -1,0 +1,107 @@
+Differentiate between NoSQL and SQL
+The dynamic schemata of NoSQL databases allow representation of alternative structures, often alongside each other, encouraging greater flexibility. There is less emphasis on planning, greater freedom when adding new attributes or fields, and the possibility of varied syntax across databases. As a group, however, NoSQL languages lack the standard interface which SQL provides, so more complex queries can be difficult to execute.
+
+Though there are many dialects of SQL, all share a common syntax and almost-identical grammar. When querying relational databases, fluency in one language translates to proficiency in most others. On the other hand, there is very little consistency between NoSQL languages, as they concern a diverse set of unrelated technologies. Many NoSQL databases have a unique data manipulation language constrained by particular structures and capabilities.
+Main Navigation
+Products
+Talend Data Fabric
+The unified platform for reliable, accessible data
+Data integration
+Application and API integration
+Data integrity and governance
+Powered by Talend Trust Score
+Stitch
+Fully-managed data pipeline for analytics
+Solutions
+Industries
+Financial services
+Healthcare
+Government
+Retail
+Telecommunications
+Departments
+Operations
+Sales
+Marketing
+Product intelligence
+Initiatives
+Cloud data lakes
+Customer 360
+Risk and compliance
+Cloud data warehouse
+Data privacy
+See all »
+Pricing
+Partners
+Technology
+Snowflake
+AWS
+Azure
+Databricks
+Google
+Cloudera
+Channel
+Partners
+Find a Partner
+Partner Portal login
+Partner training
+Why Talend
+Why Talend
+About us
+Customers
+Support and services
+Community
+Help center
+Resources
+Resource center
+Knowledge center
+White papers
+Webinars
+Blog
+Events
+Free Trial
+Log in
+International Sites
+Français
+Deutsch
+Italiano
+日本語
+SQL vs NoSQL: Differences, Databases, and Decisions
+Knowledge center» Data Fabric» What is Data Processing?» SQL vs NoSQL: Differences, Databases, an…
+From analysts and engineers to IT decision makers, many are familiar with Relational Database Management Systems (RDBMS) and the Structured Query Language (SQL) used to interact with them. While these terms refer to a decades-old paradigm which remains a wide standard, today the sheer variety and depth of database systems can be dizzying. What’s more, rising volumes of unstructured data, availability of storage and processing power, and evolving analytic requirements have generated interest in fundamentally different technologies.
+
+Collectively known as NoSQL, these popular alternatives to traditional RDBMSs show promise for a variety of modern use cases.
+
+To make informed decisions about which to use, practitioners should be aware of the differences between SQL, NoSQL, individual Database Management Systems (DBMS) and languages, as well as the situations each is best-suited for, and how the landscape is changing.
+
+SQL vs NoSQL: Five Main Differences
+SQL is the programming language used to interface with relational databases. (Relational databases model data as records in rows and tables with logical links between them). NoSQL is a class of DBMs that are non-relational and generally do not use SQL.
+
+There are five practical differences between SQL and NoSQL:
+
+Language
+Scalability
+Structure
+Properties
+Support and communities
+1. Language
+SQL has been around for over 40 years, so it is recognizable, documented, and widely-used. Safe and versatile, it’s particularly well suited for complex queries. However, SQL restricts the user to working within a predefined tabular schema, and more care must be taken to organize and understand the data before it is used.
+
+The dynamic schemata of NoSQL databases allow representation of alternative structures, often alongside each other, encouraging greater flexibility. There is less emphasis on planning, greater freedom when adding new attributes or fields, and the possibility of varied syntax across databases. As a group, however, NoSQL languages lack the standard interface which SQL provides, so more complex queries can be difficult to execute.
+
+Though there are many dialects of SQL, all share a common syntax and almost-identical grammar. When querying relational databases, fluency in one language translates to proficiency in most others. On the other hand, there is very little consistency between NoSQL languages, as they concern a diverse set of unrelated technologies. Many NoSQL databases have a unique data manipulation language constrained by particular structures and capabilities.
+
+2. Scalability
+Most SQL databases can be scaled vertically, by increasing the processing power of existing hardware. NoSQL databases use a master-slave architecture which scales better horizontally, with additional servers or nodes. These are useful generalizations, but it’s important to note:
+
+SQL databases can be scaled horizontally as well, though sharding or partitioning logic is often the user’s onus and not well supported.
+NoSQL technologies are diverse and while many rely on the master-slave architecture, options for scaling vertically also exist.
+Savings made using more efficient data structures can overwhelm differences in scalability; most important is to understand the use case and plan accordingly.
+SQL database schemata always represent relational, tabular data, with rules about consistency and integrity. They contain tables with columns (attributes) and rows (records), and keys have constrained logical relationships.
+
+NoSQL databases need not stick to this format, but generally fit into one of four broad categories:
+
+Column-oriented databases transpose row-oriented RDBMSs, allowing efficient storage of high-dimensional data and individual records with varying attributes.
+Key-Value stores are dictionaries which access diverse objects with a key unique to each.
+Document stores hold semi-structured data: objects which contain all of their own relevant information, and which can be completely different from each other.
+Graph databases add the concept of relationships (direct links between objects) to documents, allowing rapid traversal of greatly connected data sets.
