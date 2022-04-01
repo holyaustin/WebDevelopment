@@ -1,0 +1,18 @@
+        NOSQL VS SQL
+SQL databases are relational, NoSQL databases are non-relational.
+SQL databases use structured query language and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data.
+SQL databases are vertically scalable, while NoSQL databases are horizontally scalable.
+SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores.
+SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON.
+SQL databases use structured query language and have a pre-defined schema for defining and manipulating data. SQL is one of the most versatile and widely used query languages available, making it a safe choice for many use cases. It’s perfect for complex queries. However, SQL can be too restrictive. You have to use predefined schemas to determine your data structure before you can work with it. All of your data must follow the same structure. This process requires significant upfront preparation. If you ever wanted to change your data structure, it would be difficult and disruptive to your whole system. 
+
+NoSQL databases have dynamic schemas for unstructured data, and the data is stored in many ways. You can use column-oriented, document-oriented, graph-based, or KeyValue store for your data. This flexibility means that: 
+
+You can create documents without having to first define their structure
+Each document can have its own unique structure
+The syntax can vary from database to database
+You can add fields as you go
+SQL databases are vertically scalable in most situations. You’re able to increase the load on a single server by adding more CPU, RAM, or SSD capacity. NoSQL databases are horizontally scalable. You’re able to handle higher traffic by sharding, which adds more servers to your NoSQL database. Horizontal scaling has a greater overall capacity than vertical scaling, making NoSQL databases the preferred choice for large and frequently changing data sets. 
+SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores. 
+
+Some examples of SQL databases include MySQL, Oracle, PostgreSQL, and Microsoft SQL Server. NoSQL database examples include MongoDB, BigTable, Redis, RavenDB Cassandra, HBase, Neo4j, and CouchDB.
