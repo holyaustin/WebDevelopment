@@ -1,0 +1,55 @@
+Assignments.
+
+What are the differences between No SQL and SQL.
+
+   Answer;
+The SQL is a programming language used to manage relational databases
+
+Whereas;
+No SQL is collective name for databases which provide mechanism for storage and retrieval of data in means other than used in relational databases.
+
+ No SQL:
+I. No SQL is non relational 2. No SQL Is dynamic schema 3. No SQL document is based key value pairs 4 No SQL is horizontally scalable 5. No SQL follows CAP the aram.
+
+Example of no SQL databases
+
+Red is
+
+Found DB
+
+Couch DB
+
+Mongo DB
+
+Cassandra
+
+Elastic search.
+
+ SQL :
+Answer;
+
+SQL is relational
+
+SQL is predefine schema
+
+SQL is table is based
+
+SQL is vertically scalable
+
+SQL is emphasis on ACID properties
+
+Example of SQL databases
+
+Db2
+
+Db3
+
+My SQL
+
+Gugabyte DB
+
+Cockroach DB
+
+Oracle database
+
+Microsoft SQL server.
