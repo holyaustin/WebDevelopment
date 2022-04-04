@@ -1,0 +1,12 @@
+PHP Grading system
+A = 75-100
+AB=74-70
+B=65-69
+BC=60-64
+C=55-59
+CD=50-54
+D=45-49
+E=40-44
+F=0-39
+
+use this grading sytem to submit a php script that accepts any number and grade accordingly.
