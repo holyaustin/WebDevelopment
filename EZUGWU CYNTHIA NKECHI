@@ -1,1 +1,13 @@
 
+NOSQL and SQL
+When choosing a modern database, one of the biggest decisions is picking a relational (SQL) or non-relational (NoSQL) data structure. While both are viable options, there are key differences between the two that users must keep in mind when making a decision.
+
+Here, we break down the most important distinctions and discuss the best SQL and NoSQL database systems available.
+
+The five critical differences between SQL vs NoSQL are:
+
+SQL databases are relational, NoSQL databases are non-relational.
+SQL databases use structured query language and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data.
+SQL databases are vertically scalable, while NoSQL databases are horizontally scalable.
+SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores.
+SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON.
