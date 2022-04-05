@@ -1,0 +1,28 @@
+
+NOSQL
+SQL
+
+1.
+NoSQL is a class of DBMs that are non-relational and generally do not use SQL.
+SQL is the programming language used to interface with relational databases. (Relational databases model data as records in rows and tables with logical links between them)
+
+
+2.
+NoSQL databases are horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database.
+SQL databases are vertically scalable. This means that you can increase the load on a single server by increasing things like RAM, CPU 
+
+3.
+NoSQL database follows the Brewers CAP theorem (Consistency, Availability and Partition tolerance). 
+SQL databases follow ACID properties (Atomicity, Consistency, Isolation and Durability)
+
+4.
+These databases are not so good for complex queries
+These databases are best suited for complex queries
+
+5.
+These databases are best suited for hierarchical data storage.
+These databases are not suited for hierarchical data storage.
+
+
+Name: Uzodinma Onyekachi Kingsley
+Reg no: 2020/HND/31941/cs
