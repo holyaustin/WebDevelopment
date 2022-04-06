@@ -1,0 +1,16 @@
+Parameter	SQL	NOSQL
+Definition	SQL databases are primarily called RDBMS or Relational Databases	NoSQL databases are primarily called as Non-relational or distributed database
+Design for	Traditional RDBMS uses SQL syntax and queries to analyze and get the data for further insights. They are used for OLAP systems.	NoSQL database system consists of various kind of database technologies. These databases were developed in response to the demands presented for the development of the modern application.
+Query Language	Structured query language (SQL)	No declarative query language
+Type	SQL databases are table based databases	NoSQL databases can be document based, key-value pairs, graph databases
+Schema	SQL databases have a predefined schema	NoSQL databases use dynamic schema for unstructured data.
+Ability to scale	SQL databases are vertically scalable	NoSQL databases are horizontally scalable
+Examples	Oracle, Postgres, and MS-SQL.	MongoDB, Redis, Neo4j, Cassandra, Hbase.
+Best suited for	An ideal choice for the complex query intensive environment.	It is not good fit complex queries.
+Hierarchical data storage	SQL databases are not suitable for hierarchical data storage.	More suitable for the hierarchical data store as it supports key-value pair method.
+Variations	One type with minor variations.	Many different types which include key-value stores, document databases, and graph databases.
+Development Year	It was developed in the 1970s to deal with issues with flat file storage	Developed in the late 2000s to overcome issues and limitations of SQL databases.
+Open-source	A mix of open-source like Postgres & MySQL, and commercial like Oracle Database.	Open-source
+Consistency	It should be configured for strong consistency.	It depends on DBMS as some offers strong consistency like MongoDB, whereas others offer only offers eventual consistency, like Cassandra.
+Best Used for	RDBMS database is the right option for solving ACID problems.	NoSQL is a best used for solving data availability problems
+Importance	It should be used when data validity is super important	Use when it’s more important to have fast data than correct data
