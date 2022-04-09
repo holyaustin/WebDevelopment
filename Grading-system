@@ -10,3 +10,52 @@ E=40-44
 F=0-39
 
 use this grading sytem to submit a php script that accepts any number and grade accordingly.
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+    <center> 
+            <h1> program to display grades <br>
+                in PHP 
+            </h1>
+            <form method = "POST">
+                Enter The Score:
+                <input type = "text" name = "number">
+                <input type = "submit" value = "submit">
+            </form>
+    </center>
+</body>
+</head>
+</html>
+<?php
+if ($_POST){
+    $score = $_POST ["number"];
+    if ($score >= 75){
+        echo "A";
+    }
+    else if ($score >= 70){
+        echo "AB";
+    }
+    else if ($score >= 64){
+        echo "B";
+    }
+    else if ($score >= 60){
+        echo "BC";
+    }
+    else if ($score >= 55){
+        echo "C";
+    }
+    else if ($score >= 50){
+        echo "CD";
+    }
+    else if ($score >= 45){
+        echo "D";
+    }
+    else if ($score >= 40){
+        echo "E";
+    }
+    else {
+        echo "F";
+    }
+}
+?>
