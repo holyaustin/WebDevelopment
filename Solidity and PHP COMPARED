@@ -1,0 +1,16 @@
+SOLIDITY AND PHP COMPARED
+
+Point 1:  Solidity is an open source language as well as PHP.
+
+Point 2:  Solidity supports multiple inheritance while PHP does not except in cases where Traits or Interfaces are used in PHP instead of classes.
+
+Point 3: Solidity has several global variables and functions just like PHP.
+
+Point 4: Solidity is statically typed while PHP is dynamically typed.
+
+Point 5: Solidity supports libraries as well as PHP.
+
+Point 6: Solidity supports Expressions and control structures as well as PHP.
+
+Point7: Scopes in Solidity includes Public, Internal, Private, etc. . While that of PHP includes Local, Global, Static, etc.
+
