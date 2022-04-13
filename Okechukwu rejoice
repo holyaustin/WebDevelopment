@@ -1,0 +1,72 @@
+Name: OKECHUKWU REJOICE CHISOM
+Reg no: 2020/HND/31352/CS
+Course Title: WEB DEVELOPMENT (PHP)
+Course Code: COM 411
+Course Lecturer: Dr. AUGUSTINE CHIDIEBERE
+Level: HND2.
+
+HERE ARE THE DIFFERENCES BETWEEN SQL AND NoSQL DATABASES.
+
+
+The key difference between SQL and NoSQL databases is how the data is structured. SQL databases are table-based, while NoSQL databases are non-relational. This means that a SQL database contains structured data and can perform an analysis using a relational model. A NoSQL database contains unstructured data, which means it cannot be analyzed through predefined models.
+
+SQL
+
+SQL or relational models work better with structured data. This is because structured data is easy to search and analyze, much like data that is laid out in a table with columns and rows. SQL is also known as relational database.
+
+NoSQL
+
+NoSQL models make sense for less structured data sets because it doesn’t rely on a predefined model to analyze the data.
+
+SQL
+
+Most SQL databases are vertically scalable, meaning that you add more RAM or CPU to your existing single server to increase storage space.
+
+NoSQL
+
+NoSQL databases are horizontally scalable, meaning that you simply add more servers to your database to get more storage space. Because of the ability to add additional servers, NoSQL databases offer a much more distributed database. A popular way to horizontally scale your database is known as sharding. Sharding refers to the concept of splitting up your database into multiple components to sit on multiple servers.
+
+Query Data
+
+When it comes to querying your data, SQL databases tend to be able to execute more complex queries than NoSQL databases, but whichever data set you’re using, how you run queries depends on the database in question.
+
+SQL
+
+SQL systems are straightforward when it comes to data queries because they rely on one language. Because it’s been around for a long time, a lot has also gone unchanged, making the language easier to pick up for team members who might be less tech-savvy.
+
+NoSQL
+
+NoSQL systems are a bit more complex when it comes to running queries. Because there is no set query language, your team will likely need to work with a developer or someone a bit more knowledgeable in information technology to pull data queries.
+
+Data Storage
+
+In regards to data storage, SQL is more straightforward, while NoSQL offers more complex data storage solutions.
+
+SQL
+
+The SQL storage model is a table with fixed rows and columns, which programmers refer to as a relational database.
+
+NoSQL
+
+There are multiple storage models for NoSQL databases, including key-value model, column storage, document database, and graph database.
+
+Performance
+
+For performance, programmers developed NoSQL databases to solve some of the performance issues facing SQL databases--particularly when it comes to scalability.
+
+SQL
+
+If you run into performance issues with your SQL database, you’ll likely need a larger server to accommodate the increasing amount of data. But, a larger server isn’t always the most cost-effective way to manage your data.
+
+NoSQL
+
+Instead of purchasing larger servers with more memory, NoSQL databases can scale horizontally, meaning you can add new servers to what you already have as needed
+
+SQL
+
+SQL databases tend to be best for complex queries.
+
+NoSQL
+
+NoSQL databases tend to be the best option for when you’re using unstructured data.
+
