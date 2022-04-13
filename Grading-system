@@ -10,3 +10,25 @@ E=40-44
 F=0-39
 
 use this grading sytem to submit a php script that accepts any number and grade accordingly.
+             MY Answer
+<?php
+Case$ grade<=75 && $grade <=100; Echo “your score is 
+$grade Grade: A’;Break;Case $grade>=70 
+&& $grade <=74; Echo “your score is $grade
+Grade: AB”; Break; Case $grade>=65 && 
+$grade <=69; Echo “your score is $grade 
+Grade: B”; Break; Case $grade>=60 && $gra-
+de <=64; Echo “your score is $grade Grade:
+BC”; Break; Case $grade>=55 && $grade 
+<=59; Echo “your score is $grade Grade: 
+C”; Break; Case $grade>=50 && $grade <=54;
+Echo “your score is $grade Grade: CD”; 
+Break; Case $grade>=45 && $grade <=49; 
+Echo “your score is $grade Grade: D”; 
+Break; Case $grade>=40 && $grade <=45; 
+Echo “your score is $grade Grade: E”; 
+Break; Case $grade>=0 && $grade <=39; 
+Echo “your score is $grade Grade: F”; 
+Break; Default: Print(“score not found”); 
+Break
+?>
