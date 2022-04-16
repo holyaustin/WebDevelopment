@@ -1,0 +1,57 @@
+< !-- Name: Ajuzie Chimaobi Paul  -->
+<?php
+$grade =(int) readline (‘Enter your grade’);
+Switch (true) {
+Case $grade >=0 && $grade <=39:
+Echo “your score is $grade Grade:
+F”;
+Break;
+Case $grade >=40 && $grade <=44:
+Echo “your score is $grade Grade:
+E”;
+Break;
+Case $grade >=50 && $grade <=54:
+Echo “your score is $grade Grade:
+D”;
+Break;
+Case $grade >=55 && $grade <=59:
+Echo “your score is $grade Grade:
+CD”;
+Break;
+Case $grade >=60 && $grade <=64:
+Echo “your score is $grade Grade:
+C”;
+Case $grade >=65 && $grade <=69:
+Echo “your score is $grade Grade:
+BC”;
+Break;
+Case $grade >=65 && $grade <=69:
+Echo “your score is $grade Grade:
+B”;
+Break;
+Case $grade >=70 && $grade <=74:
+Echo “your score is $grade Grade:
+AB”;
+Break;
+Case $grade >=75&& $grade <=100:
+Echo “your score is $grade Grade:
+A”;
+Break;
+default:
+Print (“your score is out of range”}
+ Break;
+}
+?>
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
