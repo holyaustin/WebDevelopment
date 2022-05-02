@@ -1,12 +1,4 @@
-PHP Grading system
-A = 75-100
-AB=74-70
-B=65-69
-BC=60-64
-C=55-59
-CD=50-54
-D=45-49
-E=40-44
-F=0-39
-
-use this grading sytem to submit a php script that accepts any number and grade accordingly.
+DIFFERENCE BETWEEN WEB2 AND WEB 3
+ Web 2.0 is the participative social web or the second generation of internet services that enables read and write functionalities. On the other hand, Web 3.0 is the third generation of the web which focuses on the semantic web. It basically focuses on enabling better communication and understanding between users and machines on decentralized infrastructures.
+ Web 2.0 focused on enabling users to interact with content on the internet. On the other hand, Web 3.0 fosters immersion in the content on the internet by becoming an active contributor. While web 2.0 aimed to connect people, web 3.0 aims to connect knowledge. On a broader level, the focus of web 2.0 reflected largely on tagging and end-user experiences. Web 3.0 turned its focus towards user empowerment by facilitating improved trust, security, and privacy.
+ Some of the notable technologies underlying the growth of web 2.0 include AJAX and JavaScript. In addition, you can also notice the dominance of CSS3 and HTML5 among the technologies empowering Web 2.0. On the other hand of the spectrum, you can find web 3.0 providing support for the implementation of innovative technologies. The major technologies underpinning the foundation of web 3.0 include AI, semantic web, and [decentralized]
