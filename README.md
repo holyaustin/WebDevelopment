@@ -1,5 +1,6 @@
 # WebDevelopment
-A repository to explore diffrences between Web3 and Web2
+A repository to explore diffrences between SQL  and nosql
+
 Name: oketah Joel Nwite
 Regno: 2020/hnd/31991/C's
 
